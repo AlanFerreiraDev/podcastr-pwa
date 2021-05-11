@@ -13,6 +13,7 @@ export function Header() {
       <p>O melhor para você ouvir, sempre</p>
 
       <span>{currentDate}</span>
+      
     </header>
   )
 }
